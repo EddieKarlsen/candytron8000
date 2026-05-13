@@ -128,7 +128,9 @@ Swedish · English · German · French · Finnish · Italian · Danish · Norweg
 ## Subprojects
 
 - [`simulationCandytron8000/`](simulationCandytron8000/README.md) — NED2 arm, MuJoCo, YOLO, IK, REST API
+  [github.com/EddieKarlsen/simulationCandytron8000](https://github.com/EddieKarlsen/simulationCandytron8000)
 - [`simulationCandytronReachy/`](simulationCandytronReachy/README.md) — Reachy Mini, Whisper, LLM, Piper TTS
+  [github.com/EddieKarlsen/simulationCandytronReachy](https://github.com/EddieKarlsen/simulationCandytronReachy)
 
 ---
 
